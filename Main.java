@@ -3,3 +3,6 @@ public class Main{
 	sop(main method)
   }
 }
+Static void{
+	sop(this is it)
+}
